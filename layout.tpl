@@ -188,7 +188,7 @@
 			<div class="container">
 				{ia_hooker name='smartyFrontBeforeFooterLinks'}
 
-				<p class="copyright">&copy; {$smarty.server.REQUEST_TIME|date_format:'%Y'} {lang key='powered_by_subrion'}</p>
+				<p class="copyright">&copy; {$smarty.server.REQUEST_TIME|date_format:'%Y'} {lang key='powered_by_SewaPoint'}</p>
 
 				<a href="#" class="back-to-top js-back-to-top" title="{lang key='back_to_top'}"><span class="fa fa-angle-up"></span></a>
 
